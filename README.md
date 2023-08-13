@@ -4,7 +4,7 @@ This repository demonstrates a neural network-based approach to classify handwri
 
 The digits look like,
 
-![th](https://github.com/Guru02-GiT/Number_Recognition/assets/80115003/c3964b03-4e3e-4345-96be-b14133919e48)
+![th](https:https://github.com/Ygagandeep/Number_Recognition/blob/main/README.md?plain=1)
 
 ## Getting Started
 ### Prerequisites
@@ -25,7 +25,7 @@ pip install tensorflow keras numpy matplotlib
 To get started, follow these steps:   
   1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Guru02-GiT/Number_Recognition.git
+git clone https://github.com/Ygagandeep/Number_Recognition.git
 ```
   2. Navigate to the project directory:
 ```bash
